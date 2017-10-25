@@ -9,8 +9,6 @@
     <p id="email">
       <strong><i class="fa fa-envelope-o" aria-hidden="true"></i> Email:</strong>sajo@69gay.com
     </p>
-
-  <hr>
 </div>
 
 <?php include("includes/footer.php"); ?>

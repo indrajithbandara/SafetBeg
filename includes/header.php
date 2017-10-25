@@ -17,9 +17,10 @@
 
   <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
+
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-    target="#bs-example-navbar-collapse-1">
+  <!--    <button type="button" class="navbar-toggle" data-toggle="collapse" data-    target="#bs-example-navbar-collapse-1"> -->
+  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
     <span class="sr-only">Toggle navigation</span>
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
@@ -28,8 +29,8 @@
   <a class="navbar-brand" href="index.php"><strong><i class="fa fa-home" aria-hidden="true"></i> Safet Begic (Safetbeg)</strong></a>
 </div>
 
-<!-- Collect the nav links, forms, and other content for toggling -->
-<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<div id="navbar" class="navbar-collapse collapse">
+<!--<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> -->
   <ul class="nav navbar-nav">
     <li class="dropdown">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-paint-brush" aria-hidden="true"></i> Fine Art<b class="caret"></b></a>
@@ -50,4 +51,4 @@
     <li><a href="about.php"><i class="fa fa-info-circle" aria-hidden="true"></i> About</a></li>
     <li><a href="contact.php"><i class="fa fa-phone-square" aria-hidden="true"></i> Contact</a></li>
   </ul>
-</div><!-- /.navbar-collapse -->
+</div>

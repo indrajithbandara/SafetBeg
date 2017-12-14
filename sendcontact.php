@@ -1,7 +1,7 @@
 <?php
 
 define( "RECIPIENT_NAME", "Safet Begic" );
-define( "RECIPIENT_EMAIL", "mirzasisic57@gmail.com " );
+define( "RECIPIENT_EMAIL", "mirzasisic57@gmail.com" );
 define( "EMAIL_SUBJECT", "A website vistor has sent you an email." );
 
 $success = false;

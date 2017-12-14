@@ -24,7 +24,7 @@
         <article class="col-md-4 fullheight sidestamp contact-bg img-bg">
             <div class="valign">
                 <h6 class="font4black color">@</h6>
-                <h2 class="font4black black"><span class="font4bold white">hello@logic.com</span></h2>
+                <h2 class="font4black black"><span class="font4bold white">safetbeg2@gmail.com</span></h2>
             </div>
         </article>
         <article class="col-md-8 common-content fullheight white-bg">
@@ -34,13 +34,13 @@
 
           <div class="contact-item">
             <div class="alert alert-error error white-bg" id="fname">
-              <p class="dark">Name must not be empty</p>
+              <p class="dark">Please enter your name.</p>
             </div>
             <div class="alert alert-error  error white-bg" id="fmail">
-              <p class="dark">Please provide a valid email</p>
+              <p class="dark">Please provide a valid email.</p>
             </div>
              <div class="alert alert-error  error white-bg" id="fmsg">
-               <p class="dark">Message should not be empty</p>
+               <p class="dark">Please enter your message.</p>
              </div>
               <form name="myform" id="contactForm" action="sendcontact.php" enctype="multipart/form-data" method="post">
                 <article>

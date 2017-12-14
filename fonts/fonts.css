@@ -1,0 +1,115 @@
+/*FONTS.CSS*/
+/*------------------------------------------------------------------------------------*/
+/* Author: Designova.*/
+/* Website: http://www.Designova.net */
+/* Copyright: (C) 2015 */
+
+/* IMPORTANT NOTICE: */
+/*Some fonts used in this template are Premium Fonts with Special Extended License to Designova. As a buyer of this template you can use these fonts as part of the web template but you shoud not redistribute or resell the fonts by any means */
+/*-------------------------------------------------------------------------------------*/
+
+
+
+
+/*-------------------------------------------------------------------------------------*/
+/*1. HALIS GROTESQUE PREMIUM FONT - Special Permission Extended License for Designova */
+/*-------------------------------------------------------------------------------------*/
+/*
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2014 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Ahmet Altun
+ * License URL: http://www.fontspring.com/licenses/ahmet-altun/webfont
+ *
+ *
+ */
+
+
+@font-face {
+    font-family: 'designova_hgr_thin';
+    src: url('halisgrotesque/HalisGR-Thin-webfont.eot');
+    src: url('halisgrotesque/HalisGR-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('halisgrotesque/HalisGR-Thin-webfont.woff2') format('woff2'),
+         url('halisgrotesque/HalisGR-Thin-webfont.woff') format('woff'),
+         url('halisgrotesque/HalisGR-Thin-webfont.ttf') format('truetype'),
+         url('halisgrotesque/HalisGR-Thin-webfont.svg#halis_grthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'designova_hgr_light';
+    src: url('halisgrotesque/Halis_GR-light-webfont.eot');
+    src: url('halisgrotesque/Halis_GR-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('halisgrotesque/Halis_GR-light-webfont.woff2') format('woff2'),
+         url('halisgrotesque/Halis_GR-light-webfont.woff') format('woff'),
+         url('halisgrotesque/Halis_GR-light-webfont.ttf') format('truetype'),
+         url('halisgrotesque/Halis_GR-light-webfont.svg#halis_grlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'designova_hgr_regular';
+    src: url('halisgrotesque/HalisGR-Regular-webfont.eot');
+    src: url('halisgrotesque/HalisGR-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('halisgrotesque/HalisGR-Regular-webfont.woff2') format('woff2'),
+         url('halisgrotesque/HalisGR-Regular-webfont.woff') format('woff'),
+         url('halisgrotesque/HalisGR-Regular-webfont.ttf') format('truetype'),
+         url('halisgrotesque/HalisGR-Regular-webfont.svg#halis_gr_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'designova_hgr_bold';
+    src: url('halisgrotesque/HalisGR-Bold-webfont.eot');
+    src: url('halisgrotesque/HalisGR-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('halisgrotesque/HalisGR-Bold-webfont.woff2') format('woff2'),
+         url('halisgrotesque/HalisGR-Bold-webfont.woff') format('woff'),
+         url('halisgrotesque/HalisGR-Bold-webfont.ttf') format('truetype'),
+         url('halisgrotesque/HalisGR-Bold-webfont.svg#halis_grbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'designova_hgr_black';
+    src: url('halisgrotesque/HalisGR-Black-webfont.eot');
+    src: url('halisgrotesque/HalisGR-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('halisgrotesque/HalisGR-Black-webfont.woff2') format('woff2'),
+         url('halisgrotesque/HalisGR-Black-webfont.woff') format('woff'),
+         url('halisgrotesque/HalisGR-Black-webfont.ttf') format('truetype'),
+         url('halisgrotesque/HalisGR-Black-webfont.svg#halis_grblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*-------------------------------------------------------------------------------------*/
+/* YOUR CUSTOM FONTS CAN BE DEFINED HERE VIA CSS3 FONT-FACE TECHNOLOGY*/
+/* More info : http://css-tricks.com/snippets/css/using-font-face/ */
+/*-------------------------------------------------------------------------------------*/

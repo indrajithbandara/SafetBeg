@@ -1,0 +1,137 @@
+/* MAIN-BG.CSS contains Background Image paths & definition rules powered by CSS
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
+Note: The best way to replace any BG image is to add image URL in url('....') area of related classname.
+If you need assistance, please go to http://www.designova.net/downloads.html and request a downloadable 
+ZIP pack contains original live preview version with all preview images linked properly, so you can easily 
+replace preview images directly;
+*/
+
+/*intro02*/
+.intro-02-bg {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.intro-04-bg {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+/*intro09*/
+.intro09-01 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.intro09-02 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.intro09-03 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+.intro-02-bg {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+/*intro11*/
+.intro11-bg {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+
+/*pages*/
+.about-bg {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.works-bg {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.contact-bg {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+/*showcase*/
+.showcase-01 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.showcase-02 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.showcase-03 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.showcase-04 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.showcase-05 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+/*lookbook*/
+.lookbook-01 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.lookbook-02 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.lookbook-03 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.lookbook-04 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.lookbook-05 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.lookbook-06 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+/*photography*/
+.photography-01 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.photography-02 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.photography-03 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.photography-04 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.photography-05 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+/*Projects*/
+.project-01 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.project-02 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+.project-03 {
+    background-image: url('http://placehold.it/1500x1000.jpg');
+}
+
+/*Mobile Menu Logo*/
+.menu-collapser {
+    background-image: url('../images/logo.png');
+}

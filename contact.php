@@ -75,7 +75,7 @@
         <article class="col-md-4 fullheight sidestamp white-bg">
             <div class="valign">
                 <h6 class="font4thin dark"><span class="thumb-icon ion-ios-location-outline color"></span></h6>
-                <h4 class="font4light dark contact-address">Logic Interactive, <br/>23 North Radkneief, Berlin, DE<br/><br/>P: +123.456.789 / 123</h4>
+                <h4 class="font4light dark contact-address">SafetBeg, <br/>Gandijeva, Sarajevo, BA<br/><br/>Phone: +387.062.123.123</h4>
             </div>
         </article>
         <article class="col-md-8 color-bg fullheight no-pad">
@@ -87,36 +87,6 @@
         </article>
     </div>
 </div>
-
-
-
-
-
-
-
-
-<div class="container-fluid calltoaction calltoaction-bg">
-    <div class="row">
-        <article class="col-md-4 sidestamp color-bg calltoaction-eq-height">
-            <div class="valign">
-                <h6 class="font4thin white"><span class="thumb-icon ion-ios-paper-outline white"></span></h6>
-                <h2 class="font4black white"><span class="font4thin white">More </span> news?</h2>
-            </div>
-        </article>
-        <article class="col-md-8 calltoaction-eq-height silver-bg">
-            <div class="valign">
-            <div class="common-content">
-
-             <h5 class="font4light dark add-bottom-quarter">We produce periodic newsletters containing information about our new products and services.</h5>
-             <a class="btn btn-logic btn-logic-dark" href="contact.html">Get newsletter</a>
-            </div>
-             </div>
-        </article>
-    </div>
-</div>
-
-
-
 
 </section>
   <!-- end : inner page wrap -->
@@ -143,10 +113,10 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <script src="javascripts/custom/form-validation.js" ></script>
 
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB1zOBJmyHVLOxY91W3c1M1Mr4hjDayLm4&callback=initMap"></script>
 
 <script type="text/javascript">
-            // When the window has finished loading create our google map below
+            //This is my Google maps API key: AIzaSyB1zOBJmyHVLOxY91W3c1M1Mr4hjDayLm4
             google.maps.event.addDomListener(window, 'load', init);
 
             function init() {
@@ -154,10 +124,10 @@
                 // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
                 var mapOptions = {
                     // How zoomed in you want the map to start at (always required)
-                    zoom: 11,
+                    zoom: 16,
 
                     // The latitude and longitude to center the map (always required)
-                    center: new google.maps.LatLng(40.6700, -73.9400), // New York
+                    center: new google.maps.LatLng(43.829098, 18.357394), // New York
 
                     // How you would like to style the map.
                     // This is where you would paste any style found on Snazzy Maps.

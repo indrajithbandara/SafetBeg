@@ -25,7 +25,7 @@
             <div class="valign">
                 <img data-no-retina alt="" title="Bururet" class="img-responsive" src="images/bururet.jpg" style="margin-top: 1cm;"/>
                 <h2 class="font4bold dark main-caps-big">SafetBeg</h2>
-                <p class="add-top-quarter">Official Portfolio Website</p>
+                <p class="add-top-quarter">Fine Arts and Photography</p>
             </div>
         </article>
     </div>

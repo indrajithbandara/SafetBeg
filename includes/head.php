@@ -6,8 +6,8 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>SafetBeg</title>
-  <meta name="description" content="SafetBeg, Safet Begic, art, photography, Sarajevo">
-  <meta name="author" content="Safet Begix">
+  <meta name="description" content="SafetBeg Fine Arts and Photography.">
+  <meta name="author" content="Safet Begic">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

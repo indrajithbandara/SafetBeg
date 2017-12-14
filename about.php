@@ -19,7 +19,7 @@
 
 
 
-<div class="container-fluid white-bg">
+<div class="container-fluid white-bg" style="overflow: hidden;">
     <div class="row">
         <article class="col-md-8 col-md-offset-2 common-content fullheight text-center">
             <div class="valign">

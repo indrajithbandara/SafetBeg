@@ -8,8 +8,7 @@
 <!-- Header––––––––––––– -->
 <?php include("includes/header.php"); ?>
 
-  <!-- MASTER CONTENT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!-- MASTER CONTENT––––––––––––– -->
   <section class="mastwrap">
 
  <section class="innerwrap">
@@ -19,13 +18,13 @@
 
 
 
-<div class="container-fluid intro11-bg">
+<div class="container-fluid white-bg">
     <div class="row">
         <article class="col-md-8 col-md-offset-2 common-content fullheight text-center">
             <div class="valign">
-                <img data-no-retina alt="" title="Bururet" class="img-responsive" src="images/bururet.jpg" style="margin-top: 1cm;"/>
-                <h2 class="font4bold dark main-caps-big">SafetBeg</h2>
-                <p class="add-top-quarter">Fine Arts and Photography</p>
+                <img data-no-retina alt="" title="" class="add-bottom-quarter" src="images/badge.png"/>
+                <h2 class="font4bold dark main-caps-big">Thank you. We have received your message.</h2>
+                <p class="add-top-quarter">We will get back to you soon.</p>
             </div>
         </article>
     </div>
@@ -41,4 +40,4 @@
  </section>
   <!-- end : innerwrap -->
 
-  <?php include("includes/footer.php"); ?>
+<?php include("includes/footer.php"); ?>

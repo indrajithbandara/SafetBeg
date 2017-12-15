@@ -57,7 +57,7 @@ nav.mastnav{}
 .intro09-overlay h1>span{font-size:14px;line-height:21px;text-transform:none;letter-spacing:4px;text-transform:uppercase;}
 .intro09-carousel .owl-prev, .intro09-carousel .owl-next{padding:10px;}
 .intro09-carousel .item{background-size:cover;background-position:center center;background-repeat:no-repeat;}
-.intro11-bg{background-repeat:no-repeat;background-position:center center;background-size:cover;}
+.intro11-bg{background-repeat:no-repeat;background-position:center center;background-size:500px 500px;}
 .showcase-carousel{cursor:url("../images/drag.png") 80 80, crosshair;-webkit-transition:all .4s ease-in-out;-moz-transition:all .4s ease-in-out;-ms-transition:all .4s ease-in-out;-o-transition:all .4s ease-in-out;transition:all .4s ease-in-out;}
 .showcase-carousel .item{background-repeat:no-repeat;background-position:center center;background-size:cover;}
 .showcases-overlay{opacity:0;-webkit-transition:all 1s ease-in-out;-moz-transition:all 1s ease-in-out;-ms-transition:all 1s ease-in-out;-o-transition:all 1s ease-in-out;transition:all 1s ease-in-out;}

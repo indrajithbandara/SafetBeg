@@ -1,15 +1,9 @@
 <?php include("includes/head.php"); ?>
-<!-- Preloader––––––––––––––––––– -->
 <?php include("includes/preloader.php"); ?>
-<!-- main menu -->
 <?php include("includes/main_menu.php"); ?>
-<!--mobile navigation-->
 <?php include("includes/mobile.php"); ?>
-<!-- Header––––––––––––– -->
 <?php include("includes/header.php"); ?>
 
-  <!-- MASTER CONTENT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <section class="mastwrap">
 
  <section class="innerwrap">
@@ -169,72 +163,9 @@
                 </div>
             </a>
     </div>
-    <!-- end : works-item -->
-
-
-
 
   </div>
-  <!-- end : works-container -->
-
-
-
-
-
 
 </section>
-  <!-- end : inner page wrap -->
-
-
  </section>
-  <!-- end : innerwrap -->
-
-
-
-  <!-- FOOTER
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <footer class="mastfoot white-bg">
-
-    <div class="container-fluid">
-        <div class="row">
-            <article class="col-md-4 no-pad white-bg">
-                <div class="foot-caps">
-                    <h2 class="font4black dark">@Logic</h2>
-                </div>
-                <ul class="foot-list">
-                    <li><a class="font4 dark" href="#">Dribbble</a></li>
-                    <li><a class="font4 dark" href="#">Twitter</a></li>
-                    <li><a class="font4 dark" href="#">Facebook</a></li>
-                </ul>
-            </article>
-            <article class="col-md-4 col-md-offset-4 no-pad white-bg text-right">
-                <div class="foot-logo">
-                    <a href="index.html"><img data-no-retina alt="" title="" class="foot-logo" src="images/footlogo.png"/></a>
-                    <p class="copyright font4light dark">A premium template by <a href="http://www.designova.net">Designova</a>.<br/>Made with love in Kerala.<br/>Copyright &copy; 2015. </p>
-                </div>
-            </article>
-        </div>
-    </div>
-
-
-  </footer>
-
-
-
-  </section>
-  <!-- end : mastwrap -->
-
-
-
-
-  <!-- End Document
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
-  <!-- JS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <script src="javascripts/libs/common.js"></script>
-  <script src="javascripts/libs/bootstrap.min.js"></script>
-  <script src="javascripts/custom/main.js"></script>
-
-</body>
-</html>
+ <?php include("includes/footer.php"); ?>

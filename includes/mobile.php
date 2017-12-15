@@ -1,4 +1,3 @@
-<!-- mobile only navigation : starts -->
 <nav class="mobile-nav hidden-lg">
             <ul class="slimmenu">
               <li>
@@ -7,10 +6,10 @@
               <li>
                   <a class="sub-collapser" href="works.php">Works</a>
                   <ul>
-                    <li><a href="works.html">category</a></li>
-                    <li><a href="works-masonry.html">masonry / grid</a></li>
-                    <li><a href="lookbook.html">lookbook</a></li>
-                    <li><a href="single-project.html">single project</a></li>
+                    <li><a href="works.php">category</a></li>
+                    <li><a href="works-masonry.php">masonry / grid</a></li>
+                    <li><a href="lookbook.php">lookbook</a></li>
+                    <li><a href="single-project.php">single project</a></li>
                   </ul>
               </li>
               <li>
@@ -21,4 +20,3 @@
               </li>
             </ul>
 </nav>
-<!-- mobile only navigation : ends -->

@@ -1,29 +1,21 @@
 <section class="menu-panel fullheight">
 
 <div class="row">
-
-
-  <!-- main menu container-->
   <article class="col-md-7 fullheight nav-list-holder white-bg">
     <div class="valign">
       <nav class="nav-item-wrap">
           <ul class="main-nav-menu main-nav-menu-effect font4light">
-
               <li class="trigger-sub-nav">
-                  <!-- data-sub-nav-target: target of sub menu for 'home' link -->
                   <a data-sub-nav-target="home" class="main-nav-link dark" href="index.php">Home</a>
               </li>
               <li class="trigger-sub-nav">
-                  <!-- data-sub-nav-target: target of sub menu for 'works' link -->
-                  <a data-sub-nav-target="works" class="main-nav-link dark" target="_blank" href="works.php">Works</a>
+                  <a data-sub-nav-target="works" class="main-nav-link dark" href="works.php">Works</a>
               </li>
               <li class="trigger-sub-nav">
-                  <!-- data-sub-nav-target: target of sub menu for 'about' link -->
-                  <a data-sub-nav-target="about" class="main-nav-link dark" target="_blank" href="about.php">About</a>
+                  <a data-sub-nav-target="about" class="main-nav-link dark" href="about.php">About</a>
               </li>
               <li class="trigger-sub-nav">
-                  <!-- data-sub-nav-target: target of sub menu for 'news' link -->
-                  <a data-sub-nav-target="news" class="main-nav-link dark" target="_blank" href="contact.php">Contact</a>
+                  <a data-sub-nav-target="news" class="main-nav-link dark" href="contact.php">Contact</a>
               </li>
             </ul>
         </nav>
@@ -31,8 +23,6 @@
     </div>
   </article>
 
-
-  <!-- sub menu container -->
   <article class="col-md-4 fullheight sub-nav-holder silver-bg">
     <div class="valign">
 
@@ -75,10 +65,6 @@
 
 
     </div>
-
   </article>
-
-
 </div>
 </section>
-<!-- main menu : ends-->

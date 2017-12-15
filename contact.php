@@ -1,20 +1,12 @@
 <?php include("includes/head.php"); ?>
-<!-- Preloader––––––––––––––––––– -->
 <?php include("includes/preloader.php"); ?>
-<!-- main menu -->
 <?php include("includes/main_menu.php"); ?>
-<!--mobile navigation-->
 <?php include("includes/mobile.php"); ?>
-<!-- Header––––––––––––– -->
 <?php include("includes/header.php"); ?>
 
-  <!-- MASTER CONTENT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <section class="mastwrap">
 
  <section class="innerwrap">
-
-
 
 <section class="inner-page-wrap">
 
@@ -65,11 +57,6 @@
 </div>
 
 
-
-
-
-
-
 <div class="container-fluid about-bg">
     <div class="row">
         <article class="col-md-4 fullheight sidestamp white-bg">
@@ -89,28 +76,14 @@
 </div>
 
 </section>
-  <!-- end : inner page wrap -->
-
 
  </section>
-  <!-- end : innerwrap -->
-
-
-
-
-
 
   <?php include("includes/footer.php"); ?>
 
 
   </section>
-  <!-- end : mastwrap -->
 
-
-  <!-- End Document
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <!-- JS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <script src="javascripts/custom/form-validation.js" ></script>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB1zOBJmyHVLOxY91W3c1M1Mr4hjDayLm4&callback=initMap"></script>

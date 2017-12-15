@@ -20,22 +20,10 @@
       </div>
   </div>
 
-
 </footer>
 
-
-
 </section>
-<!-- end : mastwrap -->
 
-
-
-
-<!-- End Document
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
-<!-- JS
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <script src="javascripts/libs/common.js"></script>
 <script src="javascripts/libs/bootstrap.min.js"></script>
 <script src="javascripts/custom/equalheights-init.js" ></script>

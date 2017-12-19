@@ -24,10 +24,10 @@
 
 </section>
 
-<script src="javascripts/libs/common.js"></script>
-<script src="javascripts/libs/bootstrap.min.js"></script>
-<script src="javascripts/custom/equalheights-init.js" ></script>
-<script src="javascripts/custom/main.js"></script>
+<script defer src="javascripts/libs/common.js"></script>
+<script defer src="javascripts/libs/bootstrap.min.js"></script>
+<script defer src="javascripts/custom/equalheights-init.js" ></script>
+<script defer src="javascripts/custom/main.js"></script>
 
 </body>
 </html>

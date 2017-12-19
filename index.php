@@ -15,7 +15,7 @@
     <div class="row">
         <article class="col-md-8 col-md-offset-2 common-content fullheight text-center">
             <div class="valign">
-                  <img data-no-retina alt="" title="" src="images/bururet.jpg"/>
+                  <img data-no-retina alt="bururet" class="img-responsive" title="bururet" src="images/bururet.jpg"/>
                 <img data-no-retina/>
             </div>
         </article>

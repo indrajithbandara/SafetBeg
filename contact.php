@@ -84,7 +84,7 @@
 
   </section>
 
-  <script src="javascripts/custom/form-validation.js" ></script>
+  <script defer src="javascripts/custom/form-validation.js" ></script>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB1zOBJmyHVLOxY91W3c1M1Mr4hjDayLm4&callback=initMap"></script>
 

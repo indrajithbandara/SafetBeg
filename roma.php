@@ -53,16 +53,6 @@
     <!-- end : works-item -->
 
 
-
-    <!-- start : works-item -->
-    <div class="works-item zoom branding ui">
-            <img data-no-retina alt="Roma Kids" class="img-responsive" src="images/romiDjeca.jpg"/>
-    </div>
-    <!-- end : works-item -->
-
-
-
-
     <!-- start : works-item -->
     <div class="works-item info ui logos">
             <img data-no-retina alt="Roma Child"  class="img-responsive" src="images/RomiMalac.png"/>

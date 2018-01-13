@@ -19,7 +19,6 @@
    <!-- start : works-item -->
     <div class="works-item text-center zoom branding web white-bg works-item-caption-block">
             <div class="valign">
-                <h6 class="font4thin dark">01</h6>
                 <h2 class="font4black dark">Bosnian <span class="font4thin dark">Roma</span></h2>
             </div>
     </div>

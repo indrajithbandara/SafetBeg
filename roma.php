@@ -35,14 +35,14 @@
 
     <!-- start : works-item -->
     <div class="works-item info graphics ui">
-            <img data-no-retina alt="Roma on a bike"  class="img-responsive" src="images/fotkaromibosanski.jpg"/>
+            <img data-no-retina alt="Roma on a bike" style="height:67.5%;width:100%;"  class="img-responsive" src="images/fotkaromibosanski.jpg"/>
     </div>
     <!-- end : works-item -->
 
 
     <!-- start : works-item -->
     <div class="works-item info graphics ui">
-            <img data-no-retina alt="Roma Children"  class="img-responsive" src="images/romibos2nd.jpg"/>
+            <img data-no-retina alt="Roma Children" style="height:67.5%;width:100%;" class="img-responsive" src="images/romibos2nd.jpg"/>
     </div>
     <!-- end : works-item -->
 

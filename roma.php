@@ -65,7 +65,7 @@
 
     <!-- start : works-item -->
     <div class="works-item info ui logos">
-            <img data-no-retina alt="Roma Child"  class="img-responsive" src="images/romiMalac.jpg"/>
+            <img data-no-retina alt="Roma Child"  class="img-responsive" src="images/romiMalac.png"/>
     </div>
     <!-- end : works-item -->
 

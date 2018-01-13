@@ -3,7 +3,13 @@
 <?php include("includes/main_menu.php"); ?>
 <?php include("includes/mobile.php"); ?>
 <?php include("includes/header.php"); ?>
-
+<style>
+.img-responsive {
+        padding-left: 10%;
+        padding-right: 10%;
+        height: 250px;;
+}
+</style>
 
   <!-- MASTER CONTENT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
